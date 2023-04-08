@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+}
+.prev-h{
+	
+}
+.prev{
+margin-top: 100px;
+margin-right: 500px;
+}
+.m-t{
+  display: flex;
+  justify-content: center;
+	
+}
+.main{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.frm{
+	padding-right: 50px;
+}
+.inp-frs{
+  padding: 0 10px;
+	line-height: 40px;
+	text-align: left;
+	height: 40px;
+	display: block;
+	float: left;
+	box-sizing: border-box;
+	width: 200px;
+	border-radius: 6px 0px 0 6px;
+	border: 1px solid #ddd;
+}
+.btn{
+  position: relative;
+	display: inline-block;
+	cursor: pointer;
+	outline: none;
+	text-decoration: none;
+	font-size: 14px;
+	vertical-align: middle;
+	color: rgb(255 255 255);
+	text-align: center;
+	line-height: 22px;
+	height: 40px;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	border: none;
+	margin: 0;
+	transition: background-color 0.2s;
+}
+.btnm{
+  background-color: #419152;
+  border-radius: 0 4px 4px 0;
+}
+.btnm:hover{
+  background-color: #1be02c;
+}
+.btr{
+  background-color:rgb(247,112,112);
+   border-radius: 0px;
+}
+.btg{
+  background-color: #1c9937;
+   border-radius: 0px;
+}
+.btb{
+  background-color: #3f2de6;
+  border-radius: 0px;
+}
+.btr:hover{
+  background-color: #f5301e;
+}
+.btg:hover{
+  background-color: #05620e;
+}
+.btb:hover{
+  background-color: #12076e;
+}
+.btnm:disabled{
+  background-color: #fea69e;
+}
+/************************************************/
+
+.inp-sec{
+  margin-top:85px;
+}
+.ul-l1{
+  
+}
+.lu-el1{
+  list-style-type: none;
+  display: flex;
+  size:30px;
+}
+
+.lu-col{
+	margin-left: 20px;
+}
